@@ -13,5 +13,9 @@ func main() {
 	// defer_func()
 	// panic_ex1()
 	// pointer()
-	functions()
+	// functions()
+	// interf()
+	// goroutines()
+	// channels()
+	channels2()
 }
